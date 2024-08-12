@@ -25,6 +25,7 @@ Expression:
 4. Ignore/remove noise words
 
 **TO DO**
+* Fix .md files
 * Update to use Stanford Stop Word Removal Annotator & do not remove "and" or "or"
 * Does SQL query need to search all tables?
 
