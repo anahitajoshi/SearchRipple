@@ -25,9 +25,8 @@ Expression:
 4. Ignore/remove noise words
 
 **TO DO**
-_ASAP:_
-* Does SQL query need to search all tables?
 * Update to use Stanford Stop Word Removal Annotator & do not remove "and" or "or"
+* Does SQL query need to search all tables?
 
 5. Lemmatization and stemming 
 
