@@ -6,6 +6,7 @@ Implements search functionality --
 1. Takes in inputted search term, preprocesses and processes term for lowercase/uppercase, special characters, noise words, complex expressions, then SQL query created -- IDs must return any case variation & where text partially matches inputted search 
 2. SQL query executed
 3. IDs of terms contained search returned
+
 **EXAMPLE INPUTTED SEARCH and SQL QUERY:**
 
 search: one or _($seven and %eigh't)_
